@@ -26,4 +26,4 @@ An interactive Power BI dashboard built on 2 years of real NSE stock data for Re
 | reliance_dashboard.png | Dashboard screenshot |
 
 ## Dashboard Preview
-![Dashboard](reliance_dashboard.png)
+![Dashboard](Reliance_Dashboard.png)
