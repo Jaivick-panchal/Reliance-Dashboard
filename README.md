@@ -25,5 +25,4 @@ An interactive Power BI dashboard built on 2 years of real NSE stock data for Re
 | export_data.py | Python script to fetch & clean data |
 | reliance_dashboard.png | Dashboard screenshot |
 
-## Dashboard Preview
-![Dashboard](Reliance_Dashboard.png)
+
